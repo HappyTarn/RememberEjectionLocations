@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RememberEjectionLocations
+Bundle-SymbolicName: RememberEjectionLocations
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: RememberEjectionLocations.jar,
+ bukkit-1.7.2-R0.1-20131218.032934-10.jar
+Export-Package: com.happytarn.RememberEjectionLocations
